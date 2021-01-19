@@ -8,7 +8,7 @@ from numpy import *
 from matplotlib.pyplot import *
 
 x=arange(0,100)
-y=log(x)
+y=cos(x)
 figure()
 plot(x,y)
 show()
